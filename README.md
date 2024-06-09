@@ -25,6 +25,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monis9451&theme=2077" height="180em" />
 </div>
 <p align="center" dir="auto"> <br>
-  Views<br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/684effc58f75e781699e6cc33a9e92579fe90139f848bd96199e7f006f71e4de/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f736161646661726565642f636f756e742e737667"><img src="https://camo.githubusercontent.com/684effc58f75e781699e6cc33a9e92579fe90139f848bd96199e7f006f71e4de/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f736161646661726565642f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Monis9451/count.svg" style="max-width: 100%;"></a>
-</p>
