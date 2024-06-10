@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monis Hussain
 - 🌱 I’m currently studying in UET
-- 📫 How to reach me [Email](mianmonishussain786@gmail.com)
+- 📫 How to reach me mianmonishussain786@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/monis-hussain-2917672aa/)
 <div> <a href="https://github.com/Monis9451" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
