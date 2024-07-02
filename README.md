@@ -20,10 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Monis9451&theme=" alt="Monis9451" />
-</p>
+<h3 align="left">Stars</h3><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Monis9451&theme=" alt="Monis9451" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
