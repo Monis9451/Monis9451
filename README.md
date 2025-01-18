@@ -27,9 +27,8 @@
 </p>
 
 <h3 align="left">Stars</h3><p>
-<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=Monis9451&theme=dark" alt="Monis9451" /></p>
 
-<img src="[Monis9451/github-readme-streak-stats](https://streak-stats.demolab.com/?user=Monis9451&theme=dark)">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Monis9451"/></a>
 
 <h3 align="center">Statistics</h3>
 
