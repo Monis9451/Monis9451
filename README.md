@@ -28,7 +28,7 @@
 
 <h3 align="left">Stars</h3><p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Monis9451"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Monis9451&border_radius=15)](https://git.io/streak-stats)
 
 <h3 align="center">Statistics</h3>
 
