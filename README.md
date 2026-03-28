@@ -1,6 +1,6 @@
 # Hi, I’m Monis Hussain
 - 🌱 I’m currently studying in UET
-- 📫 How to reach me: mianmonishussain786@gmail.com
+- 📫 How to reach me: monishussainofficial@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/monis-hussain-2917672aa/)
 
 <div> 
